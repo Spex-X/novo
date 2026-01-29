@@ -75,7 +75,7 @@ export default function Home() {
             title="PLANO 1 MÊS"
             discount="40% DE DESCONTO"
             from="R$ 24,90"
-            price="R$ 19,90"
+            price="R$ 29,99"
             href="https://pay.cakto.com.br/32p84dy_746167"
           />
           {/* Plano 3 meses */}
