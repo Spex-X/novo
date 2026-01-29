@@ -76,7 +76,7 @@ export default function Home() {
             discount="40% DE DESCONTO"
             from="R$ 24,90"
             price="R$ 19,90"
-            href="https://pay.kirvano.com/6026d4be-6c16-4869-85e7-b49181f23523?aff=25997249-8f0f-4cd2-a1c2-023be55ede80"
+            href="https://pay.cakto.com.br/32p84dy_746167"
           />
           {/* Plano 3 meses */}
           <PlanCard
@@ -84,7 +84,7 @@ export default function Home() {
             discount="40% DE DESCONTO"
             from="R$ 59,70"
             price="R$ 39,90"
-            href="https://pay.kirvano.com/17344977-6382-47de-aa1a-021740143d2d?aff=25997249-8f0f-4cd2-a1c2-023be55ede80"
+            href="https://pay.cakto.com.br/3fdg55r_746093"
           />
           {/* Plano 6 meses */}
           <PlanCard
@@ -92,7 +92,7 @@ export default function Home() {
             discount="40% DE DESCONTO"
             from="R$ 119,40"
             price="R$ 69,90"
-            href="https://pay.kirvano.com/391cb7e8-9744-49d2-84ae-7b4aef946081?aff=25997249-8f0f-4cd2-a1c2-023be55ede80"
+            href="https://pay.cakto.com.br/zoqg8wr_746150"
           />
           {/* Plano 1 ano */}
           <PlanCard
@@ -100,7 +100,7 @@ export default function Home() {
             discount="46% DE DESCONTO"
             from="R$ 238,80"
             price="R$ 129,90"
-            href="https://pay.kirvano.com/10c9b8cd-0202-4e77-86fe-9c63fbe0c613?aff=25997249-8f0f-4cd2-a1c2-023be55ede80"
+            href="https://pay.cakto.com.br/3civz34_746157"
           />
         </div>
         <p className="mt-6 text-center text-sm text-zinc-300">
